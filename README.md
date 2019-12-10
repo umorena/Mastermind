@@ -1,5 +1,5 @@
 # Mastermind
-PROJET ARDUINO - MASTERMIND
+<h1>PROJET ARDUINO - MASTERMIND</h1>
 
 Gubeno Manon - PeiP2 Groupe 2
 Morena Ugo - PeiP2 Groupe 2
