@@ -1,17 +1,17 @@
 # Mastermind
-<h3>PROJET ARDUINO - MASTERMIND</h3>
+<h2>PROJET ARDUINO - MASTERMIND</h2>
 
 Gubeno Manon - PeiP2 Groupe 2
 Morena Ugo - PeiP2 Groupe 2
 
 
-<h4>Description générale :</h4>
+<h3>Description générale :</h3>
 
 <b>Idée principale :</b> Reprendre le concept du jeu Mastermind sous une forme électronique à l’aide d’Arduino. 
 
 Notre idée de base est d’avoir une caisse (en bois) laquelle laisserait apparaître l’interface du jeu (rubans de LED pour les combinaisons de couleur choisies par le jouer, signaux lumineux pour indiquer le nombre de bonnes et mauvaises réponses etc..)
 
-<span>Caisse / Support :</span> 
+<u>Caisse / Support :</u> 
 
 Maquette : en PVC, recherche des dimensions 
 Version finale : en bois
