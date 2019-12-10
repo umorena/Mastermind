@@ -20,7 +20,7 @@ La boîte laissera apparaître toutes les LEDS et les boutons de choix des coule
 Ajout d’une petite trappe qui s’ouvre lorsque le joueur trouve la bonne combinaison de couleur pour laisser apparaître la solution de la partie.
 
 
-Deux types de parties : 
+Deux types de parties :
 
 -	Solution choisie par un autre joueur (duo)
 -	Solution déterminée aléatoirement (solo)
@@ -35,7 +35,7 @@ Choix du nombre de joueurs/type de parties : Interrupteur
 Recommencer la partie : bouton matériel
 
 
-Sitographie : 
+### Sitographie : 
 
 https://www.instructables.com/id/Mastermind-Game-w-Arduino-Uno/
 https://forum.arduino.cc/index.php?topic=79978.0
