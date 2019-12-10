@@ -11,7 +11,7 @@ Morena Ugo - PeiP2 Groupe 2
 
 Notre idée de base est d’avoir une caisse (en bois) laquelle laisserait apparaître l’interface du jeu (rubans de LED pour les combinaisons de couleur choisies par le jouer, signaux lumineux pour indiquer le nombre de bonnes et mauvaises réponses etc..)
 
-<u>Caisse / Support :</u> 
+**Caisse / Support :**
 
 Maquette : en PVC, recherche des dimensions 
 Version finale : en bois
