@@ -13,8 +13,7 @@ Notre idée de base est d’avoir une caisse (en bois) laquelle laisserait appar
 
 **Caisse / Support :**
 
-Maquette : en PVC, recherche des dimensions 
-Version finale : en bois
+Version finale : en bois, avec plaques de PVC recouvrant les LEDS
 
 La boîte laissera apparaître toutes les LEDS et les boutons de choix des couleurs
 Ajout d’une petite trappe qui s’ouvre lorsque le joueur trouve la bonne combinaison de couleur pour laisser apparaître la solution de la partie.
